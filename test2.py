@@ -145,6 +145,4 @@ for i in var1:
     time.sleep(0.1)
 print('\n')
 
-print(f"how are u today? ")
-
 exit ()
